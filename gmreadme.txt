@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
-GMREADME.TXT
+TOYDATA.TXT
 Copyright (c) 1998-2000 Microsoft Corporation.  All Rights Reserved.
 ------------
 
